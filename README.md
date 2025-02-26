@@ -1,2 +1,2 @@
-# simple_airsoft_mosfet
+#Simple Airsoft Mosfet
 simple and cheap DIY mosfet with semi only
